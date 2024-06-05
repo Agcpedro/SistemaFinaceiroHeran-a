@@ -1,0 +1,15 @@
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\bin\Debug\net8.0\SistemaFinanceiro.exe
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\bin\Debug\net8.0\SistemaFinanceiro.deps.json
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\bin\Debug\net8.0\SistemaFinanceiro.runtimeconfig.json
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\bin\Debug\net8.0\SistemaFinanceiro.dll
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\bin\Debug\net8.0\SistemaFinanceiro.pdb
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\obj\Debug\net8.0\SistemaFinanceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\obj\Debug\net8.0\SistemaFinanceiro.AssemblyInfoInputs.cache
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\obj\Debug\net8.0\SistemaFinanceiro.AssemblyInfo.cs
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\obj\Debug\net8.0\SistemaFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\obj\Debug\net8.0\SistemaFinanceiro.sourcelink.json
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\obj\Debug\net8.0\SistemaFinanceiro.dll
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\obj\Debug\net8.0\refint\SistemaFinanceiro.dll
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\obj\Debug\net8.0\SistemaFinanceiro.pdb
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\obj\Debug\net8.0\SistemaFinanceiro.genruntimeconfig.cache
+C:\Users\CSP3390\Source\Repos\SistemaFinanceiroRosen\IntroducaoPOOFOA20241\SistemaFinanceiro(Slide 31,32 )\obj\Debug\net8.0\ref\SistemaFinanceiro.dll
